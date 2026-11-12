@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "generated_at_iso": "2026-11-12T20:25:13.699337",
+    "script": "my_script.py",
+    "psutil_available": true
+  },
+  "os": {
+    "system": "Linux",
+    "os_name_human": "Linux",
+    "release": "6.18.44-fc-v378",
+    "version": "#1 SMP PREEMPT_DYNAMIC @0",
+    "platform_string": "Linux-6.18.44-fc-v378-x86_64-with-glibc2.39",
+    "linux_distribution": {
+      "NAME": "Ubuntu",
+      "ID": "ubuntu",
+      "PRETTY_NAME": "Ubuntu 24.04.5 LTS",
+      "VERSION_ID": "24.04",
+      "VERSION": "24.04.5 LTS (Noble Numbat)",
+      "VERSION_CODENAME": "noble",
+      "ID_LIKE": "debian",
+      "HOME_URL": "https://www.ubuntu.com/",
+      "SUPPORT_URL": "https://help.ubuntu.com/",
+      "BUG_REPORT_URL": "https://bugs.launchpad.net/ubuntu/",
+      "PRIVACY_POLICY_URL": "https://www.ubuntu.com/legal/terms-and-policies/privacy-policy",
+      "UBUNTU_CODENAME": "noble",
+      "LOGO": "ubuntu-logo"
+    }
+  },
+  "hardware": {
+    "machine": "x86_64",
+    "processor": "x86_64",
+    "architecture_bits": "64bit",
+    "architecture_linkage": "ELF",
+    "cpu_count_logical": 1,
+    "cpu_count_physical": 1,
+    "total_memory_bytes": 4184502272,
+    "total_memory_gb": 3.9
+  },
+  "python": {
+    "version": "3.12.3",
+    "implementation": "CPython",
+    "compiler": "GCC 13.3.0",
+    "build": [
+      "main",
+      "Aug 31 2026 10:18:26"
+    ],
+    "executable_path": "/usr/bin/python3"
+  },
+  "user_and_host": {
+    "hostname": "vm",
+    "fqdn": "localhost",
+    "local_ip": "127.0.0.1",
+    "username": "root",
+    "home_dir": "/root",
+    "current_working_dir": "/home/claude/lab1",
+    "path_separator": "/"
+  },
+  "filesystem": {
+    "checked_path": "/",
+    "total_bytes": 270553174016,
+    "used_bytes": 8561827840,
+    "free_bytes": 10720432128,
+    "free_gb": 9.98
+  },
+  "locale_and_time": {
+    "timezone_names": [
+      "UTC",
+      "UTC"
+    ],
+    "utc_offset_seconds": 0,
+    "system_locale_language": "C",
+    "system_locale_encoding": "UTF-8",
+    "system_boot_time_iso": "2026-11-12T20:24:37",
+    "uptime_seconds": 37
+  },
+  "environment": {
+    "env_variables_count": 22,
+    "path_entries_count": 9,
+    "temp_dir": "/tmp"
+  }
+}
